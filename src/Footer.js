@@ -3,7 +3,7 @@ import './App.css';
 function Footer() {
   return (
     <div className='MyFooter'>
-      <span>Copyright 2023 @ Jessada Khulee</span>
+      <span>Copyright 2023 @ Supawith Impad</span>
 
     </div>
   );
